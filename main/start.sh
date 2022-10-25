@@ -1,5 +1,5 @@
 export PORT=${PORT-8080}
-export UUID=${UUID-dd636dfc-beab-42e0-96fd-ce9cc3146341}
+export UUID=${UUID-477a25a4-8a0c-4655-a64a-bfcb8a4dacf2}
 export PATH_vless=${PATH_vless-/vless/$UUID}
 export PATH_trojan=${PATH_trojan-/trojan/$UUID}
 export PATH_vmess=${PATH_vmess-/vmess/$UUID}
